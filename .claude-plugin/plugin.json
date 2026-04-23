@@ -1,0 +1,16 @@
+{
+  "name": "stock-analyzer",
+  "version": "1.0.0",
+  "description": "A股股票分析插件，支持维护观察池和持仓池、抓取个股与概念板块数据、查询财报披露和减持公告风险，并输出买入、观察、持有、减仓、卖出的结构化建议",
+  "author": {
+    "name": "suwusi"
+  },
+  "license": "MIT",
+  "keywords": [
+    "stock",
+    "a-share",
+    "trading",
+    "financial-analysis",
+    "risk-monitoring"
+  ]
+}
