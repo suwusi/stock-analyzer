@@ -5,7 +5,7 @@ A股股票分析 Claude Code Plugin，支持维护观察池和持仓池、抓取
 ## 安装
 
 ```bash
-npx skills add stock-analyzer
+npx skills add suwusi/stock-analyzer
 ```
 
 或手动安装：将本仓库克隆到 `~/.claude/plugins/stock-analyzer/`。
