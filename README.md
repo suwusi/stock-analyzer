@@ -26,6 +26,8 @@ npx skills add stock-analyzer
 - "分析我的持仓"
 - "刷新今天的风险事件"
 
+运行run_daily_refresh.bat手动刷新风险事件，运行register_daily_refresh_task.ps1添加到windows定时任务
+
 ## 依赖
 
 - Python 3.x
